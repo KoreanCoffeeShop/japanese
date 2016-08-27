@@ -24,4 +24,5 @@ Please say that again - もう一度言ってください (mo-ichido-itte-kudasa
 Do you understand? - 分かりますか [わかりますか] (wakarimasu-ka)
 
 Yes - はい (hai)
+Yes (cas) - うん (un)
 No - 否 [いいえ] (iie)
