@@ -24,5 +24,7 @@ Module 2:
   + **Do you understand?** - 分かりますか [わかりますか] {wakarimasu-ka}
 
   + **Yes** - はい {hai}
+  
   + **Yes** {c} - うん {un}
+  
   + **No** - 否 [いいえ] {iie}
