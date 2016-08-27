@@ -9,8 +9,8 @@
   + **How do you do?** - 初めまして (はじめまして) [hajimemashite]
   + **Pleased to meet you.** - どうぞ宜しく (どうぞよろしく) [dozo-yoroshiku]
 
-  + **See you later!** - ではまた dewa-mata
-  + **See you later!** - じゃまた ja-mata
+  + **See you later!** - ではまた [dewa-mata]
+  + **See you later!** - じゃまた [ja-mata]
 
   + **My** - 私の (わたしの) [watashi-no]
   + **Friend** - 友達 (ともだち) [tomodachi]
